@@ -1,13 +1,13 @@
-# Build and Release Folders
+
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
 
 # Other files and folders
-.settings/
 
-# Executables
+
+#
 *.swf
 *.air
 *.ipa
@@ -16,3 +16,590 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/28
+#EXTINF:-1 tvg-id="" tvg-name="A&E *" tvg-logo="" group-title="TODOS OS CANAIS",A&E *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/29
+#EXTINF:-1 tvg-id="" tvg-name="AMC *" tvg-logo="" group-title="TODOS OS CANAIS",AMC *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/30
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="TODOS OS CANAIS",AMC HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/31
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET *" tvg-logo="" group-title="TODOS OS CANAIS",ANIMAL PLANET *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/33
+#EXTINF:-1 tvg-id="" tvg-name="ARTE1 *" tvg-logo="" group-title="TODOS OS CANAIS",ARTE1 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/35
+#EXTINF:-1 tvg-id="" tvg-name="AXN *" tvg-logo="" group-title="TODOS OS CANAIS",AXN *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/37
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV *" tvg-logo="" group-title="TODOS OS CANAIS",BABY TV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/38
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",BAND NEWS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/39
+#EXTINF:-1 tvg-id="" tvg-name="BAND²" tvg-logo="" group-title="TODOS OS CANAIS",BAND²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/40
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD *" tvg-logo="" group-title="TODOS OS CANAIS",BAND HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/43
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS *" tvg-logo="" group-title="TODOS OS CANAIS",BAND SPORTS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/44
+#EXTINF:-1 tvg-id="" tvg-name="BIS *" tvg-logo="" group-title="TODOS OS CANAIS",BIS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/45
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD *" tvg-logo="" group-title="TODOS OS CANAIS",BIS HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/46
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG *" tvg-logo="" group-title="TODOS OS CANAIS",BOOMERANG *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/48
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL **" tvg-logo="" group-title="TODOS OS CANAIS",CANAL BRASIL **
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/51
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="" group-title="TODOS OS CANAIS",REDE CNT
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/52
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="" group-title="TODOS OS CANAIS",CANAL DO BOI
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/54
+#EXTINF:-1 tvg-id="" tvg-name="SONY *" tvg-logo="" group-title="TODOS OS CANAIS",SONY *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/56
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX *" tvg-logo="" group-title="TODOS OS CANAIS",CINEMAX *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/57
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL *" tvg-logo="" group-title="TODOS OS CANAIS",CNN ESPANHOL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/59
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL *" tvg-logo="" group-title="TODOS OS CANAIS",CNN INTERNACIONAL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/60
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD *" tvg-logo="" group-title="TODOS OS CANAIS",COMBATE HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/61
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE *" tvg-logo="" group-title="TODOS OS CANAIS",COMBATE *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/62
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL *" tvg-logo="" group-title="TODOS OS CANAIS",COMEDY CENTRAL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/63
+#EXTINF:-1 tvg-id="" tvg-name="CURTA! *" tvg-logo="" group-title="TODOS OS CANAIS",CURTA! *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/64
+#EXTINF:-1 tvg-id="" tvg-name="DAZN²" tvg-logo="" group-title="TODOS OS CANAIS",DAZN²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/66
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY CHANNEL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/68
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY H&H *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/69
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY KIDS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/70
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY CIVILIZATION
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/72
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY SCIENCE
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/73
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY THEATER
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/75
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY WORLD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/76
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY CHANNEL HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/78
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY CHANNEL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/79
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY JUNIOR HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/81
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY JUNIOR *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/82
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY XD HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/84
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY XD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/85
+#EXTINF:-1 tvg-id="" tvg-name="E! *" tvg-logo="" group-title="TODOS OS CANAIS",E! *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/86
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS 2 HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/91
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS 2
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/92
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN  *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/101
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN 2 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/103
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN BRASIL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN BRASIL HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/106
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN EXTRA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/108
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN EXTRA HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/109
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS *" tvg-logo="" group-title="TODOS OS CANAIS",FILM & ARTS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/111
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV *" tvg-logo="" group-title="TODOS OS CANAIS",FISH TV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/113
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK *" tvg-logo="" group-title="TODOS OS CANAIS",FOOD NETWORK *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/114
+#EXTINF:-1 tvg-id="" tvg-name="FOX *" tvg-logo="" group-title="TODOS OS CANAIS",FOX *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/116
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE *" tvg-logo="" group-title="TODOS OS CANAIS",FOX LIFE *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/118
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 1
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/120
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 1 HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/121
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 2
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/123
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 2 HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/124
+#EXTINF:-1 tvg-id="" tvg-name="FX *" tvg-logo="" group-title="TODOS OS CANAIS",FX *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/126
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 *" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS 2 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/130
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS *" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/131
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FUTURA *" tvg-logo="" group-title="TODOS OS CANAIS",CANAL FUTURA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/134
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/135
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/136
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/137
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MINAS²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/139
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MINAS HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/140
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BRASILIA²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/141
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BRASILIA HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/142
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV RIBEIRÃO PRETO SD*
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/143
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV SAO CARLOS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/144
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV CAMPINAS SD*
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/145
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO INTER TV CABUGI *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/146
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TEM SOROCABA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/147
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NEWS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/148
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NEWS HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/149
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NORDESTE SD*
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/151
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NORDESTE HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/152
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RBS PORTO ALEGRE *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/153
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO REDE AMAZONICA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/154
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO REDE AMAZONICA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/155
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/156
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/157
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RPC TV CURITIBA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/158
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SJRP *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/159
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS SD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TRIBUNA SANTOS SD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/160
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV ANHANGUERA GOIANIA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/161
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV BAHIA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/162
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMÉRICA CUIBÁ *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV CENTRO AMÉRICA CUIBÁ *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/163
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TEM BAURU *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/164
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/165
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOB HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/166
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOB *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/167
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOBINHO HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/168
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOBINHO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/169
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD *" tvg-logo="" group-title="TODOS OS CANAIS",GNT HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/170
+#EXTINF:-1 tvg-id="" tvg-name="GNT *" tvg-logo="" group-title="TODOS OS CANAIS",GNT *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/171
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/173
+#EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="" group-title="TODOS OS CANAIS",HBO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/174
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO 2 HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/176
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 *" tvg-logo="" group-title="TODOS OS CANAIS",HBO 2 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/177
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO FAMILY HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/179
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY *" tvg-logo="" group-title="TODOS OS CANAIS",HBO FAMILY *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/180
+#EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO + HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/182
+#EXTINF:-1 tvg-id="" tvg-name="HBO + *" tvg-logo="" group-title="TODOS OS CANAIS",HBO + *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/183
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO SIGNATURE HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/185
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE *" tvg-logo="" group-title="TODOS OS CANAIS",HBO SIGNATURE *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/186
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 *" tvg-logo="" group-title="TODOS OS CANAIS",HISTORY 2 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/187
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY *" tvg-logo="" group-title="TODOS OS CANAIS",INVESTIGAÇÃO DISCOVERY *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/189
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME *" tvg-logo="" group-title="TODOS OS CANAIS",LIFETIME *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/190
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD *" tvg-logo="" group-title="TODOS OS CANAIS",MAIS GLOBOSAT HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/191
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT *" tvg-logo="" group-title="TODOS OS CANAIS",MAIS GLOBOSAT *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/192
+#EXTINF:-1 tvg-id="" tvg-name="MAX *" tvg-logo="" group-title="TODOS OS CANAIS",MAX *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/194
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME *" tvg-logo="" group-title="TODOS OS CANAIS",MAX PRIME *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/196
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP *" tvg-logo="" group-title="TODOS OS CANAIS",MAX UP *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/198
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX *" tvg-logo="" group-title="TODOS OS CANAIS",MEGAPIX *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/200
+#EXTINF:-1 tvg-id="" tvg-name="MTV *" tvg-logo="" group-title="TODOS OS CANAIS",MTV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/201
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD *" tvg-logo="" group-title="TODOS OS CANAIS",MULTISHOW HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/202
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW *" tvg-logo="" group-title="TODOS OS CANAIS",MULTISHOW *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/204
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL *" tvg-logo="" group-title="TODOS OS CANAIS",MUSIC BOX BRAZIL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/205
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO KIDS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/206
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO WILD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/208
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/210
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR *" tvg-logo="" group-title="TODOS OS CANAIS",NICK JR *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/211
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON *" tvg-logo="" group-title="TODOS OS CANAIS",NICKELODEON *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/212
+#EXTINF:-1 tvg-id="" tvg-name="OFF *" tvg-logo="" group-title="TODOS OS CANAIS",OFF *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/213
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD *" tvg-logo="" group-title="TODOS OS CANAIS",OFF HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/214
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",PARAMOUNT CHANNEL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/215
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV *" tvg-logo="" group-title="TODOS OS CANAIS",PLAY TV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/216
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD*" tvg-logo="" group-title="TODOS OS CANAIS",PLAYBOY SD*
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/217
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS *" tvg-logo="" group-title="TODOS OS CANAIS",PLAYKIDS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/218
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 2 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/219
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 3 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/220
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 3 HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/221
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 4 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/222
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 4 HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/223
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 5 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/224
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 6 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/225
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 7 *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/226
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE CLUBES HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/229
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE CLUBES *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/230
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BELEM
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/237
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BRASILIA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/239
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BAHIA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/241
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD MINAS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/243
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="" group-title="TODOS OS CANAIS",RECORD GOIAS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/244
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD NEWS HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/245
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD NEWS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/246
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD RIO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/248
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD RS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/250
+#EXTINF:-1 tvg-id="" tvg-name="RECORD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/251
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/252
+#EXTINF:-1 tvg-id="" tvg-name="REDE PAI ETERNO" tvg-logo="" group-title="TODOS OS CANAIS",REDE PAI ETERNO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/254
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="" group-title="TODOS OS CANAIS",REDE VIDA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/255
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/257
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="TODOS OS CANAIS",SBT
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/258
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIANIA HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT GOIANIA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/259
+#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT PERNAMBUCO HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/260
+#EXTINF:-1 tvg-id="" tvg-name="SBT²" tvg-logo="" group-title="TODOS OS CANAIS",SBT²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/263
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD*" tvg-logo="" group-title="TODOS OS CANAIS",SEXTREME SD*
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/264
+#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT²" tvg-logo="" group-title="TODOS OS CANAIS",SEXYHOT²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/265
+#EXTINF:-1 tvg-id="" tvg-name="SPACE *" tvg-logo="" group-title="TODOS OS CANAIS",SPACE *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/267
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/269
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/270
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 2 HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/271
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 2²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/272
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 3 HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/273
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 3²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/274
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL *" tvg-logo="" group-title="TODOS OS CANAIS",STUDIO UNIVERSAL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/276
+#EXTINF:-1 tvg-id="" tvg-name="SYFY *" tvg-logo="" group-title="TODOS OS CANAIS",SYFY *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/278
+#EXTINF:-1 tvg-id="" tvg-name="TBS *" tvg-logo="" group-title="TODOS OS CANAIS",TBS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/279
+#EXTINF:-1 tvg-id="" tvg-name="TCM *" tvg-logo="" group-title="TODOS OS CANAIS",TCM *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/280
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE ACTION HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/281
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE ACTION *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/282
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE CULT HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/284
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE CULT *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/285
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE FUN HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/287
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE FUN *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/288
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PIPOCA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/290
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PIPOCA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/291
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PREMIUM HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/293
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PREMIUM *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/294
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE TOUCH HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/296
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE TOUCH *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/297
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",HISTORY CHANNEL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/299
+#EXTINF:-1 tvg-id="" tvg-name="TLC *" tvg-logo="" group-title="TODOS OS CANAIS",TLC *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/300
+#EXTINF:-1 tvg-id="" tvg-name="TNT *" tvg-logo="" group-title="TODOS OS CANAIS",TNT *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/301
+#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES *" tvg-logo="" group-title="TODOS OS CANAIS",TNT SÉRIES *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/303
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST *" tvg-logo="" group-title="TODOS OS CANAIS",TOONCAST *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/304
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM *" tvg-logo="" group-title="TODOS OS CANAIS",TV RA TIM BUM *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/305
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD *" tvg-logo="" group-title="TODOS OS CANAIS",TV GAZETA HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/306
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD" tvg-logo="" group-title="TODOS OS CANAIS",TV GUARULHOS HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/307
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="TODOS OS CANAIS",TV EVANGELIZAR
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/308
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV *" tvg-logo="" group-title="TODOS OS CANAIS",TRUTV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/309
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV LIBERAL BELEM *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/310
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV VERDES MARES FORTALEZA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/311
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV *" tvg-logo="" group-title="TODOS OS CANAIS",UNIVERSAL TV *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/313
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS *" tvg-logo="" group-title="TODOS OS CANAIS",VH1 MEGAHITS *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/314
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD *" tvg-logo="" group-title="TODOS OS CANAIS",VIVA HD *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/315
+#EXTINF:-1 tvg-id="" tvg-name="VIVA *" tvg-logo="" group-title="TODOS OS CANAIS",VIVA *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/316
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",WARNER CHANNEL *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/318
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO *" tvg-logo="" group-title="TODOS OS CANAIS",WOOHOO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/319
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO *" tvg-logo="" group-title="TODOS OS CANAIS",ZOOMOO *
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/320
+#EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="" group-title="TODOS OS CANAIS",APARECIDA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/332
+#EXTINF:-1 tvg-id="" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="" group-title="TODOS OS CANAIS",24H - A PANTERA COR DE ROSA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/335
+#EXTINF:-1 tvg-id="" tvg-name="24H - APENAS UM SHOW" tvg-logo="" group-title="TODOS OS CANAIS",24H - APENAS UM SHOW
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/336
+#EXTINF:-1 tvg-id="" tvg-name="24H - ARMAÇÃO ILIMITADA" tvg-logo="" group-title="TODOS OS CANAIS",24H - ARMAÇÃO ILIMITADA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/337
+#EXTINF:-1 tvg-id="" tvg-name="24H - CAPITÃO PLANETA" tvg-logo="" group-title="TODOS OS CANAIS",24H - CAPITÃO PLANETA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/338
+#EXTINF:-1 tvg-id="" tvg-name="24H - CHANGEMAN" tvg-logo="" group-title="TODOS OS CANAIS",24H - CHANGEMAN
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/339
+#EXTINF:-1 tvg-id="" tvg-name="24H - CHAVES" tvg-logo="" group-title="TODOS OS CANAIS",24H - CHAVES
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/340
+#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL SUPER" tvg-logo="" group-title="TODOS OS CANAIS",24H - DRAGON BALL SUPER
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/341
+#EXTINF:-1 tvg-id="" tvg-name="24H - HE-MAN" tvg-logo="" group-title="TODOS OS CANAIS",24H - HE-MAN
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/342
+#EXTINF:-1 tvg-id="" tvg-name="24H - JASPION" tvg-logo="" group-title="TODOS OS CANAIS",24H - JASPION
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/343
+#EXTINF:-1 tvg-id="" tvg-name="24H - LIGA DA JUSTIÇA JOVEM" tvg-logo="" group-title="TODOS OS CANAIS",24H - LIGA DA JUSTIÇA JOVEM
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/344
+#EXTINF:-1 tvg-id="" tvg-name="24H - MACGYVER" tvg-logo="" group-title="TODOS OS CANAIS",24H - MACGYVER
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/345
+#EXTINF:-1 tvg-id="" tvg-name="24H - NINJA JIRAYA" tvg-logo="" group-title="TODOS OS CANAIS",24H - NINJA JIRAYA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/346
+#EXTINF:-1 tvg-id="" tvg-name="24H - O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="" group-title="TODOS OS CANAIS",24H - O FANTÁSTICO MUNDO DE BOBBY
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/347
+#EXTINF:-1 tvg-id="" tvg-name="24H - OS FLINTSTONES" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS FLINTSTONES
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/348
+#EXTINF:-1 tvg-id="" tvg-name="24H - OS NORMAIS" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS NORMAIS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/349
+#EXTINF:-1 tvg-id="" tvg-name="24H - OS SIMPSONS" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS SIMPSONS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/350
+#EXTINF:-1 tvg-id="" tvg-name="24H - OS TRAPALHÕES" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS TRAPALHÕES
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/351
+#EXTINF:-1 tvg-id="" tvg-name="24H - PATATI - PATATÁ" tvg-logo="" group-title="TODOS OS CANAIS",24H - PATATI - PATATÁ
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/352
+#EXTINF:-1 tvg-id="" tvg-name="24H - PEPPA PIG" tvg-logo="" group-title="TODOS OS CANAIS",24H - PEPPA PIG
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/353
+#EXTINF:-1 tvg-id="" tvg-name="24H - POPEYE" tvg-logo="" group-title="TODOS OS CANAIS",24H - POPEYE
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/354
+#EXTINF:-1 tvg-id="" tvg-name="24H - POWER RANGERS" tvg-logo="" group-title="TODOS OS CANAIS",24H - POWER RANGERS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/355
+#EXTINF:-1 tvg-id="" tvg-name="24H - SCOOBY DOO" tvg-logo="" group-title="TODOS OS CANAIS",24H - SCOOBY DOO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/356
+#EXTINF:-1 tvg-id="" tvg-name="24H - SNOOPY" tvg-logo="" group-title="TODOS OS CANAIS",24H - SNOOPY
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/357
+#EXTINF:-1 tvg-id="" tvg-name="24H - SPEED RACER" tvg-logo="" group-title="TODOS OS CANAIS",24H - SPEED RACER
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/358
+#EXTINF:-1 tvg-id="" tvg-name="24H - SUPER AMIGOS" tvg-logo="" group-title="TODOS OS CANAIS",24H - SUPER AMIGOS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/359
+#EXTINF:-1 tvg-id="" tvg-name="24H - SUPER VICKY" tvg-logo="" group-title="TODOS OS CANAIS",24H - SUPER VICKY
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/360
+#EXTINF:-1 tvg-id="" tvg-name="24H - THUNDERCATS" tvg-logo="" group-title="TODOS OS CANAIS",24H - THUNDERCATS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/361
+#EXTINF:-1 tvg-id="" tvg-name="24H - TV PIRATA" tvg-logo="" group-title="TODOS OS CANAIS",24H - TV PIRATA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/362
+#EXTINF:-1 tvg-id="" tvg-name="24H - UM MALUCO NO PEDAÇO" tvg-logo="" group-title="TODOS OS CANAIS",24H - UM MALUCO NO PEDAÇO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/363
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CEARA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/384
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CEARÁ²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/385
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO GRANDE DO SUL HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/392
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO GRANDE DO SUL
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/393
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BAHIA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/394
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CURITIBA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/395
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MACAPA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/396
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MACAPA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/397
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NATAL HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/398
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NATAL
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/399
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO CLARO HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/400
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO CLARO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/401
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BOA VISTA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/402
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BOA VISTA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/403
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RECIFE HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/404
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RECIFE
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/405
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO GOIANIA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/406
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO GOIANIA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/407
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO PORTO VELHO HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/408
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO PORTO VELHO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/409
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO FLORIANOPOLIS HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/410
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO FLORIANOPOLIS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/411
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO VITORIA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/412
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO VITORIA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/413
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BELEM HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/414
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BELEM
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/415
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV RIO SUL
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/420
+#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT HD²" tvg-logo="" group-title="TODOS OS CANAIS",SEXYHOT HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/424
+#EXTINF:-1 tvg-id="" tvg-name="24 - OS JETSONS" tvg-logo="" group-title="TODOS OS CANAIS",24 - OS JETSONS
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/425
+#EXTINF:-1 tvg-id="" tvg-name="24H - CAVALO DE FOGO" tvg-logo="" group-title="TODOS OS CANAIS",24H - CAVALO DE FOGO
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/433
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL²" tvg-logo="" group-title="TODOS OS CANAIS",CNN BRASIL²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/435
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD²" tvg-logo="" group-title="TODOS OS CANAIS",TV NOVO TEMPO HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/436
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE HD" tvg-logo="" group-title="TODOS OS CANAIS",BOA VONTADE HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/437
+#EXTINF:-1 tvg-id="" tvg-name="REDE MASSA HD" tvg-logo="" group-title="TODOS OS CANAIS",REDE MASSA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/438
+#EXTINF:-1 tvg-id="" tvg-name="RICTV MaringÆ" tvg-logo="" group-title="TODOS OS CANAIS",RICTV MaringÆ
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/439
+#EXTINF:-1 tvg-id="" tvg-name="RPC HD" tvg-logo="" group-title="TODOS OS CANAIS",RPC HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/440
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="" group-title="TODOS OS CANAIS",TV PAI ETERNO HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/442
+#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA HD" tvg-logo="" group-title="TODOS OS CANAIS",TV TAROBA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/443
+#EXTINF:-1 tvg-id="" tvg-name="TV FONTE HD²" tvg-logo="" group-title="TODOS OS CANAIS",TV FONTE HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/445
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS HD²" tvg-logo="" group-title="TODOS OS CANAIS",REDE GENESIS HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/447
+#EXTINF:-1 tvg-id="" tvg-name="RBC HD²" tvg-logo="" group-title="TODOS OS CANAIS",RBC HD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/448
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 01
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/454
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 02
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/455
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 03
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/456
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 04
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/457
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 05
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/458
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 06
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/459
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 07
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/460
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 08
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/461
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 09
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/462
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 10
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/463
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2²" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS 2²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/464
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD²" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS FHD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/465
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD²" tvg-logo="" group-title="TODOS OS CANAIS",DAZN FHD²
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/466
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA" tvg-logo="" group-title="TODOS OS CANAIS",A FAZENDA
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/467
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="" group-title="TODOS OS CANAIS",A FAZENDA HD
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/468
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 1
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/469
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 2
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/470
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 3
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/471
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 4
+http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/472
