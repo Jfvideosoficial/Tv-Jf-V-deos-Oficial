@@ -1,21 +1,4 @@
 
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-
-
-#
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EIPLUS" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS
 http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/28
