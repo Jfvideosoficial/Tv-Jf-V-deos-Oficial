@@ -1,588 +1,458 @@
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/28
-#EXTINF:-1 tvg-id="" tvg-name="A&E *" tvg-logo="" group-title="TODOS OS CANAIS",A&E *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/29
-#EXTINF:-1 tvg-id="" tvg-name="AMC *" tvg-logo="" group-title="TODOS OS CANAIS",AMC *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/30
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="TODOS OS CANAIS",AMC HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/31
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET *" tvg-logo="" group-title="TODOS OS CANAIS",ANIMAL PLANET *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/33
-#EXTINF:-1 tvg-id="" tvg-name="ARTE1 *" tvg-logo="" group-title="TODOS OS CANAIS",ARTE1 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/35
-#EXTINF:-1 tvg-id="" tvg-name="AXN *" tvg-logo="" group-title="TODOS OS CANAIS",AXN *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/37
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV *" tvg-logo="" group-title="TODOS OS CANAIS",BABY TV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/38
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",BAND NEWS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/39
-#EXTINF:-1 tvg-id="" tvg-name="BAND²" tvg-logo="" group-title="TODOS OS CANAIS",BAND²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/40
-#EXTINF:-1 tvg-id="" tvg-name="BAND HD *" tvg-logo="" group-title="TODOS OS CANAIS",BAND HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/43
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS *" tvg-logo="" group-title="TODOS OS CANAIS",BAND SPORTS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/44
-#EXTINF:-1 tvg-id="" tvg-name="BIS *" tvg-logo="" group-title="TODOS OS CANAIS",BIS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/45
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD *" tvg-logo="" group-title="TODOS OS CANAIS",BIS HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/46
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG *" tvg-logo="" group-title="TODOS OS CANAIS",BOOMERANG *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/48
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL **" tvg-logo="" group-title="TODOS OS CANAIS",CANAL BRASIL **
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/51
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="" group-title="TODOS OS CANAIS",REDE CNT
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/52
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="" group-title="TODOS OS CANAIS",CANAL DO BOI
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/54
-#EXTINF:-1 tvg-id="" tvg-name="SONY *" tvg-logo="" group-title="TODOS OS CANAIS",SONY *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/56
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX *" tvg-logo="" group-title="TODOS OS CANAIS",CINEMAX *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/57
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL *" tvg-logo="" group-title="TODOS OS CANAIS",CNN ESPANHOL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/59
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL *" tvg-logo="" group-title="TODOS OS CANAIS",CNN INTERNACIONAL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/60
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD *" tvg-logo="" group-title="TODOS OS CANAIS",COMBATE HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/61
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE *" tvg-logo="" group-title="TODOS OS CANAIS",COMBATE *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/62
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL *" tvg-logo="" group-title="TODOS OS CANAIS",COMEDY CENTRAL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/63
-#EXTINF:-1 tvg-id="" tvg-name="CURTA! *" tvg-logo="" group-title="TODOS OS CANAIS",CURTA! *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/64
-#EXTINF:-1 tvg-id="" tvg-name="DAZN²" tvg-logo="" group-title="TODOS OS CANAIS",DAZN²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/66
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY CHANNEL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/68
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY H&H *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/69
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS *" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY KIDS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/70
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY CIVILIZATION
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/72
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY SCIENCE
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/73
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY THEATER
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/75
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="TODOS OS CANAIS",DISCOVERY WORLD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/76
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY CHANNEL HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/78
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY CHANNEL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/79
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY JUNIOR HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/81
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY JUNIOR *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/82
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY XD HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/84
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD *" tvg-logo="" group-title="TODOS OS CANAIS",DISNEY XD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/85
-#EXTINF:-1 tvg-id="" tvg-name="E! *" tvg-logo="" group-title="TODOS OS CANAIS",E! *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/86
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS 2 HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/91
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2" tvg-logo="" group-title="TODOS OS CANAIS",EIPLUS 2
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/92
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN  *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/101
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN 2 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/103
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN BRASIL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/105
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN BRASIL HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/106
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN EXTRA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/108
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD *" tvg-logo="" group-title="TODOS OS CANAIS",ESPN EXTRA HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/109
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS *" tvg-logo="" group-title="TODOS OS CANAIS",FILM & ARTS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/111
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV *" tvg-logo="" group-title="TODOS OS CANAIS",FISH TV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/113
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK *" tvg-logo="" group-title="TODOS OS CANAIS",FOOD NETWORK *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/114
-#EXTINF:-1 tvg-id="" tvg-name="FOX *" tvg-logo="" group-title="TODOS OS CANAIS",FOX *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/116
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE *" tvg-logo="" group-title="TODOS OS CANAIS",FOX LIFE *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/118
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 1
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/120
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 1 HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/121
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 2
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/123
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",FOX PREMIUM 2 HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/124
-#EXTINF:-1 tvg-id="" tvg-name="FX *" tvg-logo="" group-title="TODOS OS CANAIS",FX *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/126
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 *" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS 2 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/130
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS *" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/131
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FUTURA *" tvg-logo="" group-title="TODOS OS CANAIS",CANAL FUTURA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/134
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/135
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/136
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SP HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/137
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MINAS²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/139
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MINAS HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/140
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BRASILIA²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/141
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BRASILIA HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/142
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV RIBEIRÃO PRETO SD*
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/143
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV SAO CARLOS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/144
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO EPTV CAMPINAS SD*
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/145
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO INTER TV CABUGI *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/146
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TEM SOROCABA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/147
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NEWS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/148
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NEWS HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/149
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD*" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NORDESTE SD*
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/151
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NORDESTE HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/152
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RBS PORTO ALEGRE *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/153
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO REDE AMAZONICA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/154
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO REDE AMAZONICA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/155
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/156
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/157
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RPC TV CURITIBA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/158
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO SJRP *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/159
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS SD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TRIBUNA SANTOS SD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/160
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV ANHANGUERA GOIANIA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/161
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV BAHIA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/162
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMÉRICA CUIBÁ *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV CENTRO AMÉRICA CUIBÁ *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/163
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV TEM BAURU *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/164
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/165
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOB HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/166
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOB *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/167
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOBINHO HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/168
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO *" tvg-logo="" group-title="TODOS OS CANAIS",GLOOBINHO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/169
-#EXTINF:-1 tvg-id="" tvg-name="GNT HD *" tvg-logo="" group-title="TODOS OS CANAIS",GNT HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/170
-#EXTINF:-1 tvg-id="" tvg-name="GNT *" tvg-logo="" group-title="TODOS OS CANAIS",GNT *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/171
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/173
-#EXTINF:-1 tvg-id="" tvg-name="HBO *" tvg-logo="" group-title="TODOS OS CANAIS",HBO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/174
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO 2 HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/176
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 *" tvg-logo="" group-title="TODOS OS CANAIS",HBO 2 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/177
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO FAMILY HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/179
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY *" tvg-logo="" group-title="TODOS OS CANAIS",HBO FAMILY *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/180
-#EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO + HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/182
-#EXTINF:-1 tvg-id="" tvg-name="HBO + *" tvg-logo="" group-title="TODOS OS CANAIS",HBO + *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/183
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="TODOS OS CANAIS",HBO SIGNATURE HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/185
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE *" tvg-logo="" group-title="TODOS OS CANAIS",HBO SIGNATURE *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/186
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 *" tvg-logo="" group-title="TODOS OS CANAIS",HISTORY 2 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/187
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY *" tvg-logo="" group-title="TODOS OS CANAIS",INVESTIGAÇÃO DISCOVERY *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/189
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME *" tvg-logo="" group-title="TODOS OS CANAIS",LIFETIME *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/190
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT HD *" tvg-logo="" group-title="TODOS OS CANAIS",MAIS GLOBOSAT HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/191
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT *" tvg-logo="" group-title="TODOS OS CANAIS",MAIS GLOBOSAT *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/192
-#EXTINF:-1 tvg-id="" tvg-name="MAX *" tvg-logo="" group-title="TODOS OS CANAIS",MAX *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/194
-#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME *" tvg-logo="" group-title="TODOS OS CANAIS",MAX PRIME *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/196
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP *" tvg-logo="" group-title="TODOS OS CANAIS",MAX UP *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/198
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX *" tvg-logo="" group-title="TODOS OS CANAIS",MEGAPIX *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/200
-#EXTINF:-1 tvg-id="" tvg-name="MTV *" tvg-logo="" group-title="TODOS OS CANAIS",MTV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/201
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD *" tvg-logo="" group-title="TODOS OS CANAIS",MULTISHOW HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/202
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW *" tvg-logo="" group-title="TODOS OS CANAIS",MULTISHOW *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/204
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL *" tvg-logo="" group-title="TODOS OS CANAIS",MUSIC BOX BRAZIL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/205
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO KIDS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/206
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO WILD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/208
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO *" tvg-logo="" group-title="TODOS OS CANAIS",NATGEO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/210
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR *" tvg-logo="" group-title="TODOS OS CANAIS",NICK JR *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/211
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON *" tvg-logo="" group-title="TODOS OS CANAIS",NICKELODEON *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/212
-#EXTINF:-1 tvg-id="" tvg-name="OFF *" tvg-logo="" group-title="TODOS OS CANAIS",OFF *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/213
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD *" tvg-logo="" group-title="TODOS OS CANAIS",OFF HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/214
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",PARAMOUNT CHANNEL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/215
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV *" tvg-logo="" group-title="TODOS OS CANAIS",PLAY TV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/216
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD*" tvg-logo="" group-title="TODOS OS CANAIS",PLAYBOY SD*
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/217
-#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS *" tvg-logo="" group-title="TODOS OS CANAIS",PLAYKIDS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/218
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 2 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/219
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 3 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/220
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 3 HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/221
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 4 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/222
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 4 HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/223
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 5 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/224
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 6 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/225
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 7 *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/226
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE CLUBES HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/229
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES *" tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE CLUBES *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/230
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BELEM
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/237
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BRASILIA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/239
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD BAHIA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/241
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD MINAS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/243
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="" group-title="TODOS OS CANAIS",RECORD GOIAS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/244
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD NEWS HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/245
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD NEWS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/246
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD RIO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/248
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD RS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/250
-#EXTINF:-1 tvg-id="" tvg-name="RECORD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/251
-#EXTINF:-1 tvg-id="" tvg-name="RECORD HD *" tvg-logo="" group-title="TODOS OS CANAIS",RECORD HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/252
-#EXTINF:-1 tvg-id="" tvg-name="REDE PAI ETERNO" tvg-logo="" group-title="TODOS OS CANAIS",REDE PAI ETERNO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/254
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="" group-title="TODOS OS CANAIS",REDE VIDA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/255
-#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/257
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="TODOS OS CANAIS",SBT
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/258
-#EXTINF:-1 tvg-id="" tvg-name="SBT GOIANIA HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT GOIANIA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/259
-#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO HD" tvg-logo="" group-title="TODOS OS CANAIS",SBT PERNAMBUCO HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/260
-#EXTINF:-1 tvg-id="" tvg-name="SBT²" tvg-logo="" group-title="TODOS OS CANAIS",SBT²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/263
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD*" tvg-logo="" group-title="TODOS OS CANAIS",SEXTREME SD*
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/264
-#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT²" tvg-logo="" group-title="TODOS OS CANAIS",SEXYHOT²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/265
-#EXTINF:-1 tvg-id="" tvg-name="SPACE *" tvg-logo="" group-title="TODOS OS CANAIS",SPACE *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/267
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/269
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/270
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 2 HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/271
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 2²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/272
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 3 HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/273
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 3²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/274
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL *" tvg-logo="" group-title="TODOS OS CANAIS",STUDIO UNIVERSAL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/276
-#EXTINF:-1 tvg-id="" tvg-name="SYFY *" tvg-logo="" group-title="TODOS OS CANAIS",SYFY *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/278
-#EXTINF:-1 tvg-id="" tvg-name="TBS *" tvg-logo="" group-title="TODOS OS CANAIS",TBS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/279
-#EXTINF:-1 tvg-id="" tvg-name="TCM *" tvg-logo="" group-title="TODOS OS CANAIS",TCM *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/280
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE ACTION HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/281
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE ACTION *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/282
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE CULT HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/284
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE CULT *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/285
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE FUN HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/287
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE FUN *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/288
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PIPOCA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/290
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PIPOCA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/291
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PREMIUM HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/293
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE PREMIUM *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/294
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE TOUCH HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/296
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH *" tvg-logo="" group-title="TODOS OS CANAIS",TELECINE TOUCH *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/297
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",HISTORY CHANNEL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/299
-#EXTINF:-1 tvg-id="" tvg-name="TLC *" tvg-logo="" group-title="TODOS OS CANAIS",TLC *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/300
-#EXTINF:-1 tvg-id="" tvg-name="TNT *" tvg-logo="" group-title="TODOS OS CANAIS",TNT *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/301
-#EXTINF:-1 tvg-id="" tvg-name="TNT SÉRIES *" tvg-logo="" group-title="TODOS OS CANAIS",TNT SÉRIES *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/303
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST *" tvg-logo="" group-title="TODOS OS CANAIS",TOONCAST *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/304
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM *" tvg-logo="" group-title="TODOS OS CANAIS",TV RA TIM BUM *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/305
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD *" tvg-logo="" group-title="TODOS OS CANAIS",TV GAZETA HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/306
-#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD" tvg-logo="" group-title="TODOS OS CANAIS",TV GUARULHOS HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/307
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="TODOS OS CANAIS",TV EVANGELIZAR
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/308
-#EXTINF:-1 tvg-id="" tvg-name="TRUTV *" tvg-logo="" group-title="TODOS OS CANAIS",TRUTV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/309
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV LIBERAL BELEM *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/310
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA *" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV VERDES MARES FORTALEZA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/311
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV *" tvg-logo="" group-title="TODOS OS CANAIS",UNIVERSAL TV *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/313
-#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS *" tvg-logo="" group-title="TODOS OS CANAIS",VH1 MEGAHITS *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/314
-#EXTINF:-1 tvg-id="" tvg-name="VIVA HD *" tvg-logo="" group-title="TODOS OS CANAIS",VIVA HD *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/315
-#EXTINF:-1 tvg-id="" tvg-name="VIVA *" tvg-logo="" group-title="TODOS OS CANAIS",VIVA *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/316
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL *" tvg-logo="" group-title="TODOS OS CANAIS",WARNER CHANNEL *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/318
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO *" tvg-logo="" group-title="TODOS OS CANAIS",WOOHOO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/319
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO *" tvg-logo="" group-title="TODOS OS CANAIS",ZOOMOO *
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/320
-#EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="" group-title="TODOS OS CANAIS",APARECIDA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/332
-#EXTINF:-1 tvg-id="" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="" group-title="TODOS OS CANAIS",24H - A PANTERA COR DE ROSA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/335
-#EXTINF:-1 tvg-id="" tvg-name="24H - APENAS UM SHOW" tvg-logo="" group-title="TODOS OS CANAIS",24H - APENAS UM SHOW
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/336
-#EXTINF:-1 tvg-id="" tvg-name="24H - ARMAÇÃO ILIMITADA" tvg-logo="" group-title="TODOS OS CANAIS",24H - ARMAÇÃO ILIMITADA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/337
-#EXTINF:-1 tvg-id="" tvg-name="24H - CAPITÃO PLANETA" tvg-logo="" group-title="TODOS OS CANAIS",24H - CAPITÃO PLANETA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/338
-#EXTINF:-1 tvg-id="" tvg-name="24H - CHANGEMAN" tvg-logo="" group-title="TODOS OS CANAIS",24H - CHANGEMAN
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/339
-#EXTINF:-1 tvg-id="" tvg-name="24H - CHAVES" tvg-logo="" group-title="TODOS OS CANAIS",24H - CHAVES
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/340
-#EXTINF:-1 tvg-id="" tvg-name="24H - DRAGON BALL SUPER" tvg-logo="" group-title="TODOS OS CANAIS",24H - DRAGON BALL SUPER
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/341
-#EXTINF:-1 tvg-id="" tvg-name="24H - HE-MAN" tvg-logo="" group-title="TODOS OS CANAIS",24H - HE-MAN
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/342
-#EXTINF:-1 tvg-id="" tvg-name="24H - JASPION" tvg-logo="" group-title="TODOS OS CANAIS",24H - JASPION
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/343
-#EXTINF:-1 tvg-id="" tvg-name="24H - LIGA DA JUSTIÇA JOVEM" tvg-logo="" group-title="TODOS OS CANAIS",24H - LIGA DA JUSTIÇA JOVEM
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/344
-#EXTINF:-1 tvg-id="" tvg-name="24H - MACGYVER" tvg-logo="" group-title="TODOS OS CANAIS",24H - MACGYVER
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/345
-#EXTINF:-1 tvg-id="" tvg-name="24H - NINJA JIRAYA" tvg-logo="" group-title="TODOS OS CANAIS",24H - NINJA JIRAYA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/346
-#EXTINF:-1 tvg-id="" tvg-name="24H - O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="" group-title="TODOS OS CANAIS",24H - O FANTÁSTICO MUNDO DE BOBBY
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/347
-#EXTINF:-1 tvg-id="" tvg-name="24H - OS FLINTSTONES" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS FLINTSTONES
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/348
-#EXTINF:-1 tvg-id="" tvg-name="24H - OS NORMAIS" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS NORMAIS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/349
-#EXTINF:-1 tvg-id="" tvg-name="24H - OS SIMPSONS" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS SIMPSONS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/350
-#EXTINF:-1 tvg-id="" tvg-name="24H - OS TRAPALHÕES" tvg-logo="" group-title="TODOS OS CANAIS",24H - OS TRAPALHÕES
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/351
-#EXTINF:-1 tvg-id="" tvg-name="24H - PATATI - PATATÁ" tvg-logo="" group-title="TODOS OS CANAIS",24H - PATATI - PATATÁ
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/352
-#EXTINF:-1 tvg-id="" tvg-name="24H - PEPPA PIG" tvg-logo="" group-title="TODOS OS CANAIS",24H - PEPPA PIG
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/353
-#EXTINF:-1 tvg-id="" tvg-name="24H - POPEYE" tvg-logo="" group-title="TODOS OS CANAIS",24H - POPEYE
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/354
-#EXTINF:-1 tvg-id="" tvg-name="24H - POWER RANGERS" tvg-logo="" group-title="TODOS OS CANAIS",24H - POWER RANGERS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/355
-#EXTINF:-1 tvg-id="" tvg-name="24H - SCOOBY DOO" tvg-logo="" group-title="TODOS OS CANAIS",24H - SCOOBY DOO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/356
-#EXTINF:-1 tvg-id="" tvg-name="24H - SNOOPY" tvg-logo="" group-title="TODOS OS CANAIS",24H - SNOOPY
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/357
-#EXTINF:-1 tvg-id="" tvg-name="24H - SPEED RACER" tvg-logo="" group-title="TODOS OS CANAIS",24H - SPEED RACER
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/358
-#EXTINF:-1 tvg-id="" tvg-name="24H - SUPER AMIGOS" tvg-logo="" group-title="TODOS OS CANAIS",24H - SUPER AMIGOS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/359
-#EXTINF:-1 tvg-id="" tvg-name="24H - SUPER VICKY" tvg-logo="" group-title="TODOS OS CANAIS",24H - SUPER VICKY
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/360
-#EXTINF:-1 tvg-id="" tvg-name="24H - THUNDERCATS" tvg-logo="" group-title="TODOS OS CANAIS",24H - THUNDERCATS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/361
-#EXTINF:-1 tvg-id="" tvg-name="24H - TV PIRATA" tvg-logo="" group-title="TODOS OS CANAIS",24H - TV PIRATA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/362
-#EXTINF:-1 tvg-id="" tvg-name="24H - UM MALUCO NO PEDAÇO" tvg-logo="" group-title="TODOS OS CANAIS",24H - UM MALUCO NO PEDAÇO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/363
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CEARA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/384
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CEARÁ²" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CEARÁ²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/385
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO GRANDE DO SUL HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/392
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO GRANDE DO SUL
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/393
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BAHIA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/394
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO CURITIBA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/395
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MACAPA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/396
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACAPA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO MACAPA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/397
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NATAL HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/398
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO NATAL
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/399
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO CLARO HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/400
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RIO CLARO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/401
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BOA VISTA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/402
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BOA VISTA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BOA VISTA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/403
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RECIFE HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/404
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO RECIFE
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/405
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO GOIANIA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/406
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO GOIANIA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/407
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO PORTO VELHO HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/408
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTO VELHO" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO PORTO VELHO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/409
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO FLORIANOPOLIS HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/410
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO FLORIANOPOLIS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/411
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO VITORIA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/412
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO VITORIA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/413
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM HD" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BELEM HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/414
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BELEM" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO BELEM
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/415
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL" tvg-logo="" group-title="TODOS OS CANAIS",GLOBO TV RIO SUL
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/420
-#EXTINF:-1 tvg-id="" tvg-name="SEXYHOT HD²" tvg-logo="" group-title="TODOS OS CANAIS",SEXYHOT HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/424
-#EXTINF:-1 tvg-id="" tvg-name="24 - OS JETSONS" tvg-logo="" group-title="TODOS OS CANAIS",24 - OS JETSONS
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/425
-#EXTINF:-1 tvg-id="" tvg-name="24H - CAVALO DE FOGO" tvg-logo="" group-title="TODOS OS CANAIS",24H - CAVALO DE FOGO
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/433
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL²" tvg-logo="" group-title="TODOS OS CANAIS",CNN BRASIL²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/435
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD²" tvg-logo="" group-title="TODOS OS CANAIS",TV NOVO TEMPO HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/436
-#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE HD" tvg-logo="" group-title="TODOS OS CANAIS",BOA VONTADE HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/437
-#EXTINF:-1 tvg-id="" tvg-name="REDE MASSA HD" tvg-logo="" group-title="TODOS OS CANAIS",REDE MASSA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/438
-#EXTINF:-1 tvg-id="" tvg-name="RICTV MaringÆ" tvg-logo="" group-title="TODOS OS CANAIS",RICTV MaringÆ
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/439
-#EXTINF:-1 tvg-id="" tvg-name="RPC HD" tvg-logo="" group-title="TODOS OS CANAIS",RPC HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/440
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="" group-title="TODOS OS CANAIS",TV PAI ETERNO HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/442
-#EXTINF:-1 tvg-id="" tvg-name="TV TAROBA HD" tvg-logo="" group-title="TODOS OS CANAIS",TV TAROBA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/443
-#EXTINF:-1 tvg-id="" tvg-name="TV FONTE HD²" tvg-logo="" group-title="TODOS OS CANAIS",TV FONTE HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/445
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS HD²" tvg-logo="" group-title="TODOS OS CANAIS",REDE GENESIS HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/447
-#EXTINF:-1 tvg-id="" tvg-name="RBC HD²" tvg-logo="" group-title="TODOS OS CANAIS",RBC HD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/448
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 01
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/454
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 02
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/455
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 03
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/456
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 04
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/457
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 05
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/458
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 06
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/459
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 07
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/460
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 08
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/461
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 09
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/462
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="" group-title="TODOS OS CANAIS",CINE SKY 10
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/463
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2²" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS 2²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/464
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD²" tvg-logo="" group-title="TODOS OS CANAIS",FOX SPORTS FHD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/465
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD²" tvg-logo="" group-title="TODOS OS CANAIS",DAZN FHD²
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/466
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA" tvg-logo="" group-title="TODOS OS CANAIS",A FAZENDA
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/467
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="" group-title="TODOS OS CANAIS",A FAZENDA HD
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/468
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 1
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/469
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 2
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/470
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 3
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/471
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="" group-title="TODOS OS CANAIS",CONMEBOL 4
-http://192.95.30.205:8080/bw1lD3eCw3r44D/21tQQURcthyF/472
+#EXTINF:-
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND BA
+http://cdnbr.xyz:8080/200036256/167115791/222774
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND CAMPINAS HD
+http://cdnbr.xyz:8080/200036256/167115791/222767
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND DF HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND DF HD
+http://cdnbr.xyz:8080/200036256/167115791/222766
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PARANA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND PARANA
+http://cdnbr.xyz:8080/200036256/167115791/222790
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND RJ HD
+http://cdnbr.xyz:8080/200036256/167115791/222768
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND RS HD
+http://cdnbr.xyz:8080/200036256/167115791/222769
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND SERGIPE HD
+http://cdnbr.xyz:8080/200036256/167115791/222770
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND SP HD
+http://cdnbr.xyz:8080/200036256/167115791/222771
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="" group-title="RELIGIOSOS",CANCAO NOVA
+http://cdnbr.xyz:8080/200036256/167115791/222775
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skybrasil.svg/1200px-Skybrasil.svg.png" group-title="CINE SKY",CINE SKY 1  FHD
+http://cdnbr.xyz:8080/200036256/167115791/222779
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skybrasil.svg/1200px-Skybrasil.svg.png" group-title="CINE SKY",CINE SKY 2 FHD
+http://cdnbr.xyz:8080/200036256/167115791/222780
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skybrasil.svg/1200px-Skybrasil.svg.png" group-title="CINE SKY",CINE SKY 3  FHD
+http://cdnbr.xyz:8080/200036256/167115791/222781
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skybrasil.svg/1200px-Skybrasil.svg.png" group-title="CINE SKY",CINE SKY 4 FHD
+http://cdnbr.xyz:8080/200036256/167115791/222782
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Skybrasil.svg/1200px-Skybrasil.svg.png" group-title="CINE SKY",CINE SKY 5 FHD
+http://cdnbr.xyz:8080/200036256/167115791/222783
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD SP" tvg-logo="" group-title="CANAIS ABERTOS",GAZETA HD SP
+http://cdnbr.xyz:8080/200036256/167115791/222773
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO" tvg-logo="" group-title="RELIGIOSOS",NOVO TEMPO
+http://cdnbr.xyz:8080/200036256/167115791/222776
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="RELIGIOSOS",NOVO TEMPO HD
+http://cdnbr.xyz:8080/200036256/167115791/222762
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BAHIA
+http://cdnbr.xyz:8080/200036256/167115791/222788
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BAHIA
+http://cdnbr.xyz:8080/200036256/167115791/222813
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BELEM HD
+http://cdnbr.xyz:8080/200036256/167115791/222804
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BH HD
+http://cdnbr.xyz:8080/200036256/167115791/222765
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BRASILIA HD
+http://cdnbr.xyz:8080/200036256/167115791/222799
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD CAMPINAS HD
+http://cdnbr.xyz:8080/200036256/167115791/222795
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD MANAUS HD
+http://cdnbr.xyz:8080/200036256/167115791/222786
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD MINAS HD
+http://cdnbr.xyz:8080/200036256/167115791/222806
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PARANA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD PARANA HD
+http://cdnbr.xyz:8080/200036256/167115791/222792
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD RJ HD
+http://cdnbr.xyz:8080/200036256/167115791/222807
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD RS HD
+http://cdnbr.xyz:8080/200036256/167115791/222801
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SANTA CATARINA HD
+http://cdnbr.xyz:8080/200036256/167115791/222793
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SANTOS" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SANTOS
+http://cdnbr.xyz:8080/200036256/167115791/222805
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SAO JOSE RIO PRETO HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SAO JOSE RIO PRETO HD
+http://cdnbr.xyz:8080/200036256/167115791/222802
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SERGIPE
+http://cdnbr.xyz:8080/200036256/167115791/222803
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD H265" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SP FHD H265
+http://cdnbr.xyz:8080/200036256/167115791/222778
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SP HD
+http://cdnbr.xyz:8080/200036256/167115791/222777
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD UBERLANDIA MG" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD UBERLANDIA MG
+http://cdnbr.xyz:8080/200036256/167115791/222798
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD" tvg-logo="" group-title="CANAIS ABERTOS",REDE MINAS HD
+http://cdnbr.xyz:8080/200036256/167115791/222763
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BAHIA" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT BAHIA
+http://cdnbr.xyz:8080/200036256/167115791/222812
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT DF HD
+http://cdnbr.xyz:8080/200036256/167115791/222808
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES
+http://cdnbr.xyz:8080/200036256/167115791/222796
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES FHD
+http://cdnbr.xyz:8080/200036256/167115791/222800
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES HD
+http://cdnbr.xyz:8080/200036256/167115791/222797
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT MG
+http://cdnbr.xyz:8080/200036256/167115791/222794
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT MG FHD
+http://cdnbr.xyz:8080/200036256/167115791/222789
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT PARANA HD
+http://cdnbr.xyz:8080/200036256/167115791/222791
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT RJ FHD
+http://cdnbr.xyz:8080/200036256/167115791/222785
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT RS HD
+http://cdnbr.xyz:8080/200036256/167115791/222809
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SERGIPE
+http://cdnbr.xyz:8080/200036256/167115791/222810
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SP HD
+http://cdnbr.xyz:8080/200036256/167115791/222811
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="" group-title="CANAIS ABERTOS",TV BRASIL HD
+http://cdnbr.xyz:8080/200036256/167115791/222772
+#EXTINF:-1 tvg-id="" tvg-name="TV CAPIXABA HD" tvg-logo="" group-title="CANAIS ABERTOS",TV CAPIXABA HD
+http://cdnbr.xyz:8080/200036256/167115791/222787
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="" group-title="CANAIS ABERTOS",TV DIARIO HD
+http://cdnbr.xyz:8080/200036256/167115791/222764
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="RELIGIOSOS",TV EVANGELIZAR
+http://cdnbr.xyz:8080/200036256/167115791/222784
+#EXTINF:-1 tvg-id="" tvg-name="2 HOMENS E MEIO " tvg-logo="https://cdn.ome.lt/k72_onff6cnXjVRVjAw8eEtmvh0=/480x360/smart/extras/conteudos/conteudo_93574.jpg" group-title="SERIES 24HRS",2 HOMENS E MEIO 
+http://cdnbr.xyz:8080/200036256/167115791/220776
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="2 HOMENS E MEIO - 01" tvg-logo="https://cdn.ome.lt/k72_onff6cnXjVRVjAw8eEtmvh0=/480x360/smart/extras/conteudos/conteudo_93574.jpg" group-title="SERIES 24HRS",2 HOMENS E MEIO - 01
+http://cdnbr.xyz:8080/200036256/167115791/220777
+#EXTINF:-1 tvg-id="" tvg-name="A GUARDA DO LEAO " tvg-logo="https://i.pinimg.com/originals/87/24/3c/87243ce988c09f1a1f10442b9bb390f8.png" group-title="DESENHOS 24HRS",A GUARDA DO LEAO 
+http://cdnbr.xyz:8080/200036256/167115791/220756
+#EXTINF:-1 tvg-id="" tvg-name="A NOSSA TURMA " tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="DESENHOS 24HRS",A NOSSA TURMA 
+http://cdnbr.xyz:8080/200036256/167115791/220757
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="https://2.bp.blogspot.com/-MSFKRAEGaxI/UcHGeMLBZKI/AAAAAAAAEnc/8fTUpP3cR_M/s640/Aladdin.jpg" group-title="DESENHOS 24HRS",ALADDIN
+http://cdnbr.xyz:8080/200036256/167115791/220813
+#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS" tvg-logo="https://s.glbimg.com/po/tt/f/original/2012/03/28/foto-1.jpg" group-title="DESENHOS 24HRS",ANGRY BIRDS
+http://cdnbr.xyz:8080/200036256/167115791/220913
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TUNES " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71o21rcUkmL._AC_SX569_.jpg" group-title="DESENHOS 24HRS",BABY LOONEY TUNES 
+http://cdnbr.xyz:8080/200036256/167115791/220782
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="https://ondeeubaixo.org/capa/batman-a-serie-animada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="DESENHOS 24HRS",BATMAN
+http://cdnbr.xyz:8080/200036256/167115791/220896
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNDY5NTg5MF5BMl5BanBnXkFtZTgwNzI4NzM1MjE@._V1_UY1200_CR151,0,630,1200_AL_.jpg" group-title="SERIES 24HRS",BATMAN
+http://cdnbr.xyz:8080/200036256/167115791/220918
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://img.elo7.com.br/product/zoom/2E2D0BE/quadro-infantil-ben-10-cartoon-anime-desenho-animado-herois-presente.jpg" group-title="DESENHOS 24HRS",BEN 10
+http://cdnbr.xyz:8080/200036256/167115791/221572
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 T01" tvg-logo="https://pm1.narvii.com/6352/5449790482e4df6e6b6bed9ea7d31895c29c8fc1_00.jpg" group-title="DESENHOS 24HRS",BEN 10 T01
+http://cdnbr.xyz:8080/200036256/167115791/220811
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 T02" tvg-logo="https://pm1.narvii.com/6352/5449790482e4df6e6b6bed9ea7d31895c29c8fc1_00.jpg" group-title="DESENHOS 24HRS",BEN 10 T02
+http://cdnbr.xyz:8080/200036256/167115791/220812
+#EXTINF:-1 tvg-id="" tvg-name="BEN E HOLLY" tvg-logo="https://img.elo7.com.br/product/original/1CED7DD/painel-2x1-ben-e-holly-painel.jpg" group-title="DESENHOS 24HRS",BEN E HOLLY
+http://cdnbr.xyz:8080/200036256/167115791/220759
+#EXTINF:-1 tvg-id="" tvg-name="BEYBLADE" tvg-logo="https://i.pinimg.com/originals/0e/e6/f7/0ee6f755515e2e4956c01847f370523c.png" group-title="DESENHOS 24HRS",BEYBLADE
+http://cdnbr.xyz:8080/200036256/167115791/220747
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA " tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/d8/2017/09/27/bob-esponja-1506562776988_v2_1600x1200.jpg" group-title="DESENHOS 24HRS",BOB ESPONJA 
+http://cdnbr.xyz:8080/200036256/167115791/220781
+#EXTINF:-1 tvg-id="" tvg-name="BOOBA " tvg-logo="https://i.ytimg.com/vi/XK8METRgK_U/maxresdefault.jpg" group-title="DESENHOS 24HRS",BOOBA 
+http://cdnbr.xyz:8080/200036256/167115791/220761
+#EXTINF:-1 tvg-id="" tvg-name="CAMERA ESCONDIDA - TERROR" tvg-logo="https://s3.portalt5.com.br/imagens/Captura-de-tela-de-2019-05-13-14-47-27.png" group-title="PROGRAMAS 24HRS",CAMERA ESCONDIDA - TERROR
+http://cdnbr.xyz:8080/200036256/167115791/220736
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO T01" tvg-logo="https://defatoonline.com.br/wp-content/uploads/2019/08/dvd-os-cavaleiros-do-zodiaco-classico-serie-completa-D_NQ_NP_113125-MLB25370018974_022017-F-780x520.jpg" group-title="DESENHOS 24HRS",CAVALEIROS DO ZODIACO T01
+http://cdnbr.xyz:8080/200036256/167115791/220815
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO T02" tvg-logo="https://defatoonline.com.br/wp-content/uploads/2019/08/dvd-os-cavaleiros-do-zodiaco-classico-serie-completa-D_NQ_NP_113125-MLB25370018974_022017-F-780x520.jpg" group-title="DESENHOS 24HRS",CAVALEIROS DO ZODIACO T02
+http://cdnbr.xyz:8080/200036256/167115791/220816
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO T03" tvg-logo="https://defatoonline.com.br/wp-content/uploads/2019/08/dvd-os-cavaleiros-do-zodiaco-classico-serie-completa-D_NQ_NP_113125-MLB25370018974_022017-F-780x520.jpg" group-title="DESENHOS 24HRS",CAVALEIROS DO ZODIACO T03
+http://cdnbr.xyz:8080/200036256/167115791/220817
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO T04" tvg-logo="https://defatoonline.com.br/wp-content/uploads/2019/08/dvd-os-cavaleiros-do-zodiaco-classico-serie-completa-D_NQ_NP_113125-MLB25370018974_022017-F-780x520.jpg" group-title="DESENHOS 24HRS",CAVALEIROS DO ZODIACO T04
+http://cdnbr.xyz:8080/200036256/167115791/220818
+#EXTINF:-1 tvg-id="" tvg-name="CHANGEMAN " tvg-logo="https://sirinerd.com.br/wp-content/uploads/2018/12/Changeman-01.jpg" group-title="SERIES 24HRS",CHANGEMAN 
+http://cdnbr.xyz:8080/200036256/167115791/220922
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN T01" tvg-logo="https://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg" group-title="SERIES 24HRS",CHAPOLIN T01
+http://cdnbr.xyz:8080/200036256/167115791/220602
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN T02" tvg-logo="https://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg" group-title="SERIES 24HRS",CHAPOLIN T02
+http://cdnbr.xyz:8080/200036256/167115791/220603
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN T03" tvg-logo="https://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg" group-title="SERIES 24HRS",CHAPOLIN T03
+http://cdnbr.xyz:8080/200036256/167115791/220604
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://2.bp.blogspot.com/-KehEmV6OUzQ/UZPzVUD3bMI/AAAAAAAABEQ/yROJAL7PMO4/s1600/chavesbanner_content.png" group-title="DESENHOS 24HRS",CHAVES
+http://cdnbr.xyz:8080/200036256/167115791/220788
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES T01" tvg-logo="https://i.pinimg.com/564x/dc/b5/c8/dcb5c8d4c21e8319f21d9e257acbba5f.jpg" group-title="SERIES 24HRS",CHAVES T01
+http://cdnbr.xyz:8080/200036256/167115791/220605
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES T02" tvg-logo="https://i.pinimg.com/564x/dc/b5/c8/dcb5c8d4c21e8319f21d9e257acbba5f.jpg" group-title="SERIES 24HRS",CHAVES T02
+http://cdnbr.xyz:8080/200036256/167115791/220606
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES T03" tvg-logo="https://i.pinimg.com/564x/dc/b5/c8/dcb5c8d4c21e8319f21d9e257acbba5f.jpg" group-title="SERIES 24HRS",CHAVES T03
+http://cdnbr.xyz:8080/200036256/167115791/220607
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM O CAO COVARDE" tvg-logo="https://rollingstone.uol.com.br/media/_versions/coragem_o_cao_covarde_-_divulgacao_widelg.jpg" group-title="DESENHOS 24HRS",CORAGEM O CAO COVARDE
+http://cdnbr.xyz:8080/200036256/167115791/220787
+#EXTINF:-1 tvg-id="" tvg-name="DANIEL TIGRE" tvg-logo="https://i.ytimg.com/vi/TUPD0dg3DKk/maxresdefault.jpg" group-title="DESENHOS 24HRS",DANIEL TIGRE
+http://cdnbr.xyz:8080/200036256/167115791/220762
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL CLASSICO " tvg-logo="https://i.pinimg.com/474x/7d/4d/bd/7d4dbdc429ea06120d30876bb3f6bf65.jpg" group-title="DESENHOS 24HRS",DRAGON BALL CLASSICO 
+http://cdnbr.xyz:8080/200036256/167115791/220801
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL CLASSICO 01" tvg-logo="https://i.pinimg.com/474x/7d/4d/bd/7d4dbdc429ea06120d30876bb3f6bf65.jpg" group-title="DESENHOS 24HRS",DRAGON BALL CLASSICO 01
+http://cdnbr.xyz:8080/200036256/167115791/220802
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/1327153/Latvian/1327153_Latvian_ShowKeyart_876f0577-f1e3-ea11-82a8-dd291e252010.jpg" group-title="DESENHOS 24HRS",DRAGON BALL GT
+http://cdnbr.xyz:8080/200036256/167115791/220800
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL KAI T01" tvg-logo="https://bignadaquasar.files.wordpress.com/2011/03/dragon-ball-kai-cartoon-network-brasil.jpg" group-title="DESENHOS 24HRS",DRAGON BALL KAI T01
+http://cdnbr.xyz:8080/200036256/167115791/220803
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL KAI T02" tvg-logo="https://bignadaquasar.files.wordpress.com/2011/03/dragon-ball-kai-cartoon-network-brasil.jpg" group-title="DESENHOS 24HRS",DRAGON BALL KAI T02
+http://cdnbr.xyz:8080/200036256/167115791/220804
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL KAI T03" tvg-logo="https://bignadaquasar.files.wordpress.com/2011/03/dragon-ball-kai-cartoon-network-brasil.jpg" group-title="DESENHOS 24HRS",DRAGON BALL KAI T03
+http://cdnbr.xyz:8080/200036256/167115791/220805
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL KAI T04" tvg-logo="https://bignadaquasar.files.wordpress.com/2011/03/dragon-ball-kai-cartoon-network-brasil.jpg" group-title="DESENHOS 24HRS",DRAGON BALL KAI T04
+http://cdnbr.xyz:8080/200036256/167115791/220806
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER T01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="DESENHOS 24HRS",DRAGON BALL SUPER T01
+http://cdnbr.xyz:8080/200036256/167115791/220797
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER T02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="DESENHOS 24HRS",DRAGON BALL SUPER T02
+http://cdnbr.xyz:8080/200036256/167115791/220798
+#EXTINF:-1 tvg-id="" tvg-name="DUCK DODGERS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71kPE-1aiNL._AC_SY550_.jpg" group-title="DESENHOS 24HRS",DUCK DODGERS
+http://cdnbr.xyz:8080/200036256/167115791/220897
+#EXTINF:-1 tvg-id="" tvg-name="E SE FOR VERDADE " tvg-logo="https://criadoresid.com/wp-content/uploads/2017/03/860561_1903184866401867_242989422487456954_o-400x400.jpg" group-title="PROGRAMAS 24HRS",E SE FOR VERDADE 
+http://cdnbr.xyz:8080/200036256/167115791/220737
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T01" tvg-logo="https://paneladeseries.com.br/wp-content/uploads/2017/11/eu-a-patroa-e-as-criancas-logo.jpg" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS T01
+http://cdnbr.xyz:8080/200036256/167115791/220597
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T02" tvg-logo="https://paneladeseries.com.br/wp-content/uploads/2017/11/eu-a-patroa-e-as-criancas-logo.jpg" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS T02
+http://cdnbr.xyz:8080/200036256/167115791/220598
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T03" tvg-logo="https://paneladeseries.com.br/wp-content/uploads/2017/11/eu-a-patroa-e-as-criancas-logo.jpg" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS T03
+http://cdnbr.xyz:8080/200036256/167115791/220599
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T04" tvg-logo="https://paneladeseries.com.br/wp-content/uploads/2017/11/eu-a-patroa-e-as-criancas-logo.jpg" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS T04
+http://cdnbr.xyz:8080/200036256/167115791/220600
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS T05" tvg-logo="https://paneladeseries.com.br/wp-content/uploads/2017/11/eu-a-patroa-e-as-criancas-logo.jpg" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS T05
+http://cdnbr.xyz:8080/200036256/167115791/220601
+#EXTINF:-1 tvg-id="" tvg-name="FATOS DESCONHECIDO " tvg-logo="https://criadoresid.com/wp-content/uploads/2017/03/860561_1903184866401867_242989422487456954_o-400x400.jpg" group-title="PROGRAMAS 24HRS",FATOS DESCONHECIDO 
+http://cdnbr.xyz:8080/200036256/167115791/220738
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA 01" tvg-logo="https://papelarrozkantinhodobolo.com.br/wp-content/uploads/2017/08/1-43.jpg" group-title="DESENHOS 24HRS",GALINHA PINTADINHA 01
+http://cdnbr.xyz:8080/200036256/167115791/220789
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN " tvg-logo="https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/02/heman00-1.jpg" group-title="DESENHOS 24HRS",HE-MAN 
+http://cdnbr.xyz:8080/200036256/167115791/220888
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA " tvg-logo="https://i.ytimg.com/vi/zcU0SJfJOU0/maxresdefault.jpg" group-title="DESENHOS 24HRS",HOMEM-ARANHA 
+http://cdnbr.xyz:8080/200036256/167115791/220903
+#EXTINF:-1 tvg-id="" tvg-name="HORA DA AVENTURA " tvg-logo="https://br.web.img2.acsta.net/newsv7/19/10/23/22/06/3873908.jpg" group-title="DESENHOS 24HRS",HORA DA AVENTURA 
+http://cdnbr.xyz:8080/200036256/167115791/220764
+#EXTINF:-1 tvg-id="" tvg-name="IRMAO DO JOREL " tvg-logo="https://emc.acidadeon.com/dbimagens/programese/SrSuAI421032019131845.jpg" group-title="DESENHOS 24HRS",IRMAO DO JOREL 
+http://cdnbr.xyz:8080/200036256/167115791/220791
+#EXTINF:-1 tvg-id="" tvg-name="JUNIPER LEE" tvg-logo="https://i.pinimg.com/originals/a6/a2/8a/a6a28a2366286c926d80397d221f6512.jpg" group-title="DESENHOS 24HRS",JUNIPER LEE
+http://cdnbr.xyz:8080/200036256/167115791/220814
+#EXTINF:-1 tvg-id="" tvg-name="JUSTIÇA JOVEM " tvg-logo="https://pm1.narvii.com/6527/1b3b5fb44ea1ee2fd7fcc2de85144dc6616af77e_00.jpg" group-title="DESENHOS 24HRS",JUSTIÇA JOVEM 
+http://cdnbr.xyz:8080/200036256/167115791/220904
+#EXTINF:-1 tvg-id="" tvg-name="KRYPTO O SUPERCAO " tvg-logo="https://i.ytimg.com/vi/FLM2m2vuWdw/maxresdefault.jpg" group-title="DESENHOS 24HRS",KRYPTO O SUPERCAO 
+http://cdnbr.xyz:8080/200036256/167115791/220902
+#EXTINF:-1 tvg-id="" tvg-name="LEGIAO DOS SUPER HEROIS " tvg-logo="https://d26lpennugtm8s.cloudfront.net/stores/892/720/products/legiao-dos-super-herois1-106f53f394d241f88a15407716219260-640-0.jpg" group-title="DESENHOS 24HRS",LEGIAO DOS SUPER HEROIS 
+http://cdnbr.xyz:8080/200036256/167115791/220819
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="https://i.pinimg.com/originals/ce/8b/df/ce8bdffdcaa1296af135aa8cb28f03e8.jpg" group-title="DESENHOS 24HRS",LIGA DA JUSTIÇA 
+http://cdnbr.xyz:8080/200036256/167115791/220895
+#EXTINF:-1 tvg-id="" tvg-name="LOONY TUNES 01" tvg-logo="https://2.bp.blogspot.com/-LpNvJjiZWvk/Ukx26smrdtI/AAAAAAAAAAY/BKtVqObn9QE/s1600/El_show_de_los_looney_tunes.jpg" group-title="DESENHOS 24HRS",LOONY TUNES 01
+http://cdnbr.xyz:8080/200036256/167115791/220886
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA" tvg-logo="https://media.fstatic.com/fKfu8ka1sLfb8aioUVmMrZl28BI=/290x478/smart/media/movies/covers/2016/08/little-lulu-show-1417431257.jpg" group-title="DESENHOS 24HRS",LULUZINHA
+http://cdnbr.xyz:8080/200036256/167115791/220765
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="MARATONA TOKUSATSU" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_660266-MLB26752034308_022018-O.jpg" group-title="SERIES 24HRS",MARATONA TOKUSATSU
+http://cdnbr.xyz:8080/200036256/167115791/220921
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="https://a-static.mlcdn.com.br/1500x1500/caderno-brochurao-c-d-48-folhas-masha-e-o-urso-jandaia/papellotti2/17943p/05fd6d7d664c1d7352df7a7b646dfb5e.jpg" group-title="DESENHOS 24HRS",MASHA E O URSO 
+http://cdnbr.xyz:8080/200036256/167115791/220766
+#EXTINF:-1 tvg-id="" tvg-name="MEDABOTS" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/medabots-desenho-vol-1-dvd-rexmore-company-do-brasil-ltda/showdamusica/510c7d0be8906391133aa81683f4ce2f/60ff5799dc0d1c06be25226511cac1e8.jpg" group-title="DESENHOS 24HRS",MEDABOTS
+http://cdnbr.xyz:8080/200036256/167115791/220749
+#EXTINF:-1 tvg-id="" tvg-name="MEGA MAN POTENCIA MAXIMA" tvg-logo="https://media.fstatic.com/OvS914iTEAunXA7NoXNLukxq7KQ=/290x478/smart/media/movies/covers/2020/03/unnamed.png" group-title="DESENHOS 24HRS",MEGA MAN POTENCIA MAXIMA
+http://cdnbr.xyz:8080/200036256/167115791/220916
+#EXTINF:-1 tvg-id="" tvg-name="MEGAMAN " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51o6TJcQrnL._SX331_BO1,204,203,200_.jpg" group-title="DESENHOS 24HRS",MEGAMAN 
+http://cdnbr.xyz:8080/200036256/167115791/220750
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91G85qo4zML._SL1500_.jpg" group-title="DESENHOS 24HRS",MIRACULOUS
+http://cdnbr.xyz:8080/200036256/167115791/220784
+#EXTINF:-1 tvg-id="" tvg-name="MY LITTLE PONY" tvg-logo="https://lh5.googleusercontent.com/-e2pq-rVXwjc/Tj9crH7dgjI/AAAAAAAACLM/M73v9ilonkY/MLPLogo.jpg" group-title="DESENHOS 24HRS",MY LITTLE PONY
+http://cdnbr.xyz:8080/200036256/167115791/220785
+#EXTINF:-1 tvg-id="" tvg-name="NANATSU NO TAIZAI T01" tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="DESENHOS 24HRS",NANATSU NO TAIZAI T01
+http://cdnbr.xyz:8080/200036256/167115791/220808
+#EXTINF:-1 tvg-id="" tvg-name="NANATSU NO TAIZAI T02" tvg-logo="https://i.pinimg.com/originals/d4/28/c9/d428c9bc7985c98b9ecb07b666ec58ec.jpg" group-title="DESENHOS 24HRS",NANATSU NO TAIZAI T02
+http://cdnbr.xyz:8080/200036256/167115791/220809
+#EXTINF:-1 tvg-id="" tvg-name="NERDE SHOW " tvg-logo="http://nerdshow1.hospedagemdesites.ws/wp-content/uploads/2018/08/logo-nerdshow-1.png" group-title="PROGRAMAS 24HRS",NERDE SHOW 
+http://cdnbr.xyz:8080/200036256/167115791/220739
+#EXTINF:-1 tvg-id="" tvg-name="ONE PUNCH MAN " tvg-logo="https://www.gamereactor.pt/media/66/zapowiedu017a1punch_2886613.jpg" group-title="DESENHOS 24HRS",ONE PUNCH MAN 
+http://cdnbr.xyz:8080/200036256/167115791/220807
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇAO DE RISCO " tvg-logo="https://i.ytimg.com/vi/eNgZpuJDu0U/maxresdefault.jpg" group-title="PROGRAMAS 24HRS",OPERAÇAO DE RISCO 
+http://cdnbr.xyz:8080/200036256/167115791/220740
+#EXTINF:-1 tvg-id="" tvg-name="OQUE ACONTECERIA SE !" tvg-logo="https://i.ytimg.com/vi/MOXYV_PufQI/hqdefault.jpg" group-title="PROGRAMAS 24HRS",OQUE ACONTECERIA SE !
+http://cdnbr.xyz:8080/200036256/167115791/220741
+#EXTINF:-1 tvg-id="" tvg-name="OS BACKYARDIGANS" tvg-logo="https://a-static.mlcdn.com.br/574x431/painel-de-festa-os-backyardigans-03-colormyhome/colormyhome/1931/746125f3dab01fb964af0a7d3becdabd.jpg" group-title="DESENHOS 24HRS",OS BACKYARDIGANS
+http://cdnbr.xyz:8080/200036256/167115791/220767
+#EXTINF:-1 tvg-id="" tvg-name="OS JOVENS TITANS" tvg-logo="https://i.pinimg.com/originals/b9/14/e6/b914e6826251973ea7d7a58569f4d0c0.jpg" group-title="DESENHOS 24HRS",OS JOVENS TITANS
+http://cdnbr.xyz:8080/200036256/167115791/220824
+#EXTINF:-1 tvg-id="" tvg-name="OS VELHINHOS SE DIVERTE" tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="PROGRAMAS 24HRS",OS VELHINHOS SE DIVERTE
+http://cdnbr.xyz:8080/200036256/167115791/220742
+#EXTINF:-1 tvg-id="" tvg-name="PACA-PAU" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/d5/2015/12/03/desenho-pica-pau-1449164687135_700x470.jpg" group-title="DESENHOS 24HRS",PACA-PAU
+http://cdnbr.xyz:8080/200036256/167115791/220769
+#EXTINF:-1 tvg-id="" tvg-name="PATATI E PATATA" tvg-logo="https://img.elo7.com.br/product/original/27CA1A5/faixa-decorativa-em-adesivo-do-patati-patata.jpg" group-title="DESENHOS 24HRS",PATATI E PATATA
+http://cdnbr.xyz:8080/200036256/167115791/220871
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="https://www.morenopetblog.com.br/wp-content/uploads/2020/07/poster-painel-festa-decoraco-patrulha-canina-paw-100x60cm-D_NQ_NP_751969-MLB29109074045_012019-F-1.jpg" group-title="DESENHOS 24HRS",PATRULHA CANINA
+http://cdnbr.xyz:8080/200036256/167115791/220889
+#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS JOAO KLEBER" tvg-logo="https://seeklogo.com/images/S/sbt-logo-6EF461E6D3-seeklogo.com.jpg" group-title="PROGRAMAS 24HRS",PEGADINHAS JOAO KLEBER
+http://cdnbr.xyz:8080/200036256/167115791/220743
+#EXTINF:-1 tvg-id="" tvg-name="PICA-PAU 01" tvg-logo="https://seriesemcena.com.br/wp-content/uploads/2016/06/image19-e1449247609506.jpeg" group-title="DESENHOS 24HRS",PICA-PAU 01
+http://cdnbr.xyz:8080/200036256/167115791/220887
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819mHtGQufL.png" group-title="DESENHOS 24HRS",PJ MASK
+http://cdnbr.xyz:8080/200036256/167115791/220770
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="POCOYO" tvg-logo="https://i.ytimg.com/vi/lXFFVBFh2tA/maxresdefault.jpg" group-title="DESENHOS 24HRS",POCOYO
+http://cdnbr.xyz:8080/200036256/167115791/220771
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/Pol%C3%ADcia_24h.jpg/275px-Pol%C3%ADcia_24h.jpg" group-title="PROGRAMAS 24HRS",POLICIA 24HRS
+http://cdnbr.xyz:8080/200036256/167115791/220744
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="https://3.bp.blogspot.com/-8bBU-7oOdVo/WbXsWBM9uZI/AAAAAAAArnE/-zYH5r2DA2AL9nJQcCzQVtFY98ia3Gg_QCLcBGAs/s1600/mighty-morphin-power-rangers-power-rangers-film-compare-aesthetic-1.jpg" group-title="SERIES 24HRS",POWER RANGERS
+http://cdnbr.xyz:8080/200036256/167115791/220919
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBT-DOO!" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/fanart/361065/1389008-0-q80.jpg" group-title="DESENHOS 24HRS",SCOOBT-DOO!
+http://cdnbr.xyz:8080/200036256/167115791/220899
+#EXTINF:-1 tvg-id="" tvg-name="SHOW DA LUNA" tvg-logo="https://i.ytimg.com/vi/L2xjl5hL-xM/maxresdefault.jpg" group-title="DESENHOS 24HRS",SHOW DA LUNA
+http://cdnbr.xyz:8080/200036256/167115791/220772
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE " tvg-logo="https://terraverso.com.br/wp-content/uploads/2020/02/SuperChoqueCapa.jpg" group-title="DESENHOS 24HRS",SUPER CHOQUE 
+http://cdnbr.xyz:8080/200036256/167115791/220783
+#EXTINF:-1 tvg-id="" tvg-name="TESTE DE FIDELIDADE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Teste_de_Fidelidade.jpg" group-title="PROGRAMAS 24HRS",TESTE DE FIDELIDADE
+http://cdnbr.xyz:8080/200036256/167115791/220745
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA " tvg-logo="https://i.pinimg.com/originals/9a/dc/0e/9adc0e0c382fe54a3f262b32fe3b5392.jpg" group-title="DESENHOS 24HRS",TIMAO E PUMBA 
+http://cdnbr.xyz:8080/200036256/167115791/220786
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS T01" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS T01
+http://cdnbr.xyz:8080/200036256/167115791/220792
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS T02" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS T02
+http://cdnbr.xyz:8080/200036256/167115791/220793
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS T03" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS T03
+http://cdnbr.xyz:8080/200036256/167115791/220794
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS T04" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS T04
+http://cdnbr.xyz:8080/200036256/167115791/220837
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY " tvg-logo="https://www.tribunadeparnaiba.com/wp-content/uploads/2017/12/maxresdefault.jpg" group-title="DESENHOS 24HRS",TOM E JERRY 
+http://cdnbr.xyz:8080/200036256/167115791/220774
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 01" tvg-logo="https://img.elo7.com.br/product/zoom/2496757/painel-lona-festa-infantil-tom-jerry-2-00x1-50-grande-aniversario.jpg" group-title="DESENHOS 24HRS",TOM E JERRY 01
+http://cdnbr.xyz:8080/200036256/167115791/220885
+#EXTINF:-1 tvg-id="" tvg-name="TROLLS" tvg-logo="https://saopauloparacriancas.com.br/wp-content/uploads/2018/05/SPPC-Trolls-350x236.jpg" group-title="DESENHOS 24HRS",TROLLS
+http://cdnbr.xyz:8080/200036256/167115791/220821
+#EXTINF:-1 tvg-id="" tvg-name="TROLLS 01" tvg-logo="https://saopauloparacriancas.com.br/wp-content/uploads/2018/05/SPPC-Trolls-350x236.jpg" group-title="DESENHOS 24HRS",TROLLS 01
+http://cdnbr.xyz:8080/200036256/167115791/220822
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Turma_da_M%C3%B4nica.jpg" group-title="DESENHOS 24HRS",TURMA DA MONICA
+http://cdnbr.xyz:8080/200036256/167115791/220775
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T01 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T01 
+http://cdnbr.xyz:8080/200036256/167115791/220663
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T02
+http://cdnbr.xyz:8080/200036256/167115791/220667
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T03
+http://cdnbr.xyz:8080/200036256/167115791/220668
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T04
+http://cdnbr.xyz:8080/200036256/167115791/220671
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T05
+http://cdnbr.xyz:8080/200036256/167115791/220672
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO T06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/Logo_The_Fresh_Prince_of_Bel-Air.jpg" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO T06
+http://cdnbr.xyz:8080/200036256/167115791/220674
+#EXTINF:-1 tvg-id="" tvg-name="VOCE SABIA?" tvg-logo="https://i.ytimg.com/vi/MOXYV_PufQI/hqdefault.jpg" group-title="PROGRAMAS 24HRS",VOCE SABIA?
+http://cdnbr.xyz:8080/200036256/167115791/220746
+#EXTINF:-1 tvg-id="" tvg-name="WINX" tvg-logo="https://pm1.narvii.com/6471/467d9b265732f164ae5c5a910b0ec275f8aba952_00.jpg" group-title="DESENHOS 24HRS",WINX
+http://cdnbr.xyz:8080/200036256/167115791/220823
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN " tvg-logo="https://animesonline.cc/wp-content/uploads/2019/06/desenho-x-men-evolution-completa-dublado-frete-gratis-hd-D_NQ_NP_937610-MLB27056103230_032018-F.jpg" group-title="DESENHOS 24HRS",X-MEN 
+http://cdnbr.xyz:8080/200036256/167115791/220820
+#EXTINF:-1 tvg-id="" tvg-name=" JT Leroy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ffZhMCWQhzMneGP4kDWoPV48X.jpg" group-title="DRAMA", JT Leroy
+http://cdnbr.xyz:8080/movie/200036256/167115791/212075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPRwjT4uB34WkGnUzJD9uukwGqZ.jpg" group-title="CLASSICOS",...E o Vento Levou (1939)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 in Rio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNfqwcLYy3LxEtGcWSFej27Acyh.jpg" group-title="AÇÃO",007 in Rio
+http://cdnbr.xyz:8080/movie/200036256/167115791/210566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b3qmLlvm2lvJ2gxsKQ42S3RTKR.jpg" group-title="AÇÃO",007: Cassino Royale (2006)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWoUlYxVRZsjh9L9CZjrHSM2l6W.jpg" group-title="AÇÃO",007: Contra Spectre (2015)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="AÇÃO",007: Operação Skyfall (2012)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="AÇÃO",007: Quantum of Solace (2008)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas que Deveríamos Fazer Antes de nos Separar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtzw9PBFYir17bSXV7Dv1X6PhZ5.jpg" group-title="LANÇAMENTOS",10 Coisas que Deveríamos Fazer Antes de nos Separar (2020)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Segundos Para Vencer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5nmhRu2TyLzaNnhny5XNZumdWI.jpg" group-title="DOCUMENTARIIOS",10 Segundos Para Vencer (2018)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="AVENTURA",10.000 A.C. (2008)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10x10.2019 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="TERROR",10x10.2019 (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJazel1knaYGfJ2m6CcnDOLHrLg.jpg" group-title="AVENTURA",127 Horas (2010)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13 Fantasmas (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oisnNBAdTX1CqWbFyacEueH3RiP.jpg" group-title="TERROR",13 Fantasmas (1960)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="GUERRA/CRIME ",15 Minutos de Guerra (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1911 - A Revolução (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dtUMbcZJATwB7QLHRuwBJaTPWO.jpg" group-title="GUERRA/CRIME ",1911 - A Revolução (2011)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1911 - A Revolução (2011)LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dtUMbcZJATwB7QLHRuwBJaTPWO.jpg" group-title="AÇÃO",1911 - A Revolução (2011)LEG
+http://cdnbr.xyz:8080/movie/200036256/167115791/210574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="GUERRA/CRIME ",1917 (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1952 Mazzaropi Nadando em Dinheiro (1952)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/95/94/01/20434839.jpg" group-title="NACIONAL",1952 Mazzaropi Nadando em Dinheiro (1952)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1952 Mazzaropi Sai da frente (1952)" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/96/54/96/20474601.jpg" group-title="NACIONAL",1952 Mazzaropi Sai da frente (1952)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1953 Mazzaropi Candinho (1953)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRiNDk0YjAtMzQ3NS00MGVkLWIxMmMtYWY2OGU4ZTI1YWRhXkEyXkFqcGdeQXVyNjgxODkyNjI@._V1_.jpg" group-title="NACIONAL",1953 Mazzaropi Candinho (1953)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1955 Mazzaropi A Carrocinha (1955)" tvg-logo="data:image/jpeg;base64,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" group-title="NACIONAL",1955 Mazzaropi A Carrocinha (1955)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1956 Mazzaropi Fuzileiro Do Amor (1956)" tvg-logo="https://2.bp.blogspot.com/-yDQ2LKGk7AI/UTIa1inDBPI/AAAAAAAAAVA/wBpgxosHcb8/s1600/POSTER-Fuzileiro-do-Amor.jpg" group-title="NACIONAL",1956 Mazzaropi Fuzileiro Do Amor (1956)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1956 Mazzaropi Gato de Madame (1956)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/76/51/20162435.jpg" group-title="NACIONAL",1956 Mazzaropi Gato de Madame (1956)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1957 Mazzaropi O Noivo Da Girafa (1957)" tvg-logo="https://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/95/94/60/20435138.jpg" group-title="NACIONAL",1957 Mazzaropi O Noivo Da Girafa (1957)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1958 Mazzaropi Chico Fumaca (1958)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/88/82/45/20005740.jpg" group-title="NACIONAL",1958 Mazzaropi Chico Fumaca (1958)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1959 Mazzaropi Chofer de Praca (1959)" tvg-logo="https://br.web.img3.acsta.net/c_215_290/pictures/210/195/21019546_20130715144612222.jpg" group-title="NACIONAL",1959 Mazzaropi Chofer de Praca (1959)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1959 Mazzaropi Jeca Tatu (1959)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/97/00/20369289.jpg" group-title="NACIONAL",1959 Mazzaropi Jeca Tatu (1959)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1960 Mazzaropi As Aventuras de Pedro Malazartes (1960)" tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/21/17/32/059335.jpg" group-title="NACIONAL",1960 Mazzaropi As Aventuras de Pedro Malazartes (1960)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1961 Mazzaropi Tristeza do Jeca (1961)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/111/21011178_20130607190132998.jpg" group-title="NACIONAL",1961 Mazzaropi Tristeza do Jeca (1961)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1962 Mazzaropi O Vendedor de Linguica (1962)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzNjNkYzctMmJmMy00MGNmLWEzMDktZTI5NjVkZDdkZGMyXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="NACIONAL",1962 Mazzaropi O Vendedor de Linguica (1962)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1963 Mazzaropi Casinha Pequenina (1963)" tvg-logo="https://http2.mlstatic.com/poster-mazzaropi-casinha-pequenina-filme-retro-a3-D_NQ_NP_650687-MLB27030530545_032018-F.jpg" group-title="NACIONAL",1963 Mazzaropi Casinha Pequenina (1963)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964 Mazzaropi O Lamparina (1964)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/O_Lamparina.jpg/200px-O_Lamparina.jpg" group-title="NACIONAL",1964 Mazzaropi O Lamparina (1964)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964 O Brasil entre armas e livros (1964)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/O_Lamparina.jpg/200px-O_Lamparina.jpg" group-title="DOCUMENTARIIOS",1964 O Brasil entre armas e livros (1964)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1965 Mazzaropi O Puritano da rua augusta (1965)" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/96/36/13/20462392.jpg" group-title="NACIONAL",1965 Mazzaropi O Puritano da rua augusta (1965)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1966 Mazzaropi O Corintiano (1966)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/195/21019554_20130715145039551.jpg" group-title="NACIONAL",1966 Mazzaropi O Corintiano (1966)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1967 Mazzaropi O Jeca e a Freira (1967)" tvg-logo="https://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/94/96/12/20368675.jpg" group-title="NACIONAL",1967 Mazzaropi O Jeca e a Freira (1967)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1968 Mazzaropi No paraiso das solteironas (1968)" tvg-logo="https://br.web.img3.acsta.net/pictures/14/06/26/18/34/190957.jpg" group-title="NACIONAL",1968 Mazzaropi No paraiso das solteironas (1968)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1969 Mazzaropi Uma Pistola para,Djeca (1969)" tvg-logo="https://http2.mlstatic.com/dvd-coleco-mazzaropi-uma-pistola-para-djeca-D_NQ_NP_618161-MLB40749258369_022020-F.jpg" group-title="NACIONAL",1969 Mazzaropi Uma Pistola para,Djeca (1969)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1970 Mazzaropi Betao Ronca Ferro (1970)" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/88/82/22/20005717.jpg" group-title="NACIONAL",1970 Mazzaropi Betao Ronca Ferro (1970)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1972 Mazzaropi O Grande Xerife (1972)" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/files/atoms/image/o_grande_xerife_cartaz_medio.jpg" group-title="NACIONAL",1972 Mazzaropi O Grande Xerife (1972)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1973 Mazzaropi Portugal Minha Saudade (1973)" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/96/25/47/20455809.jpg" group-title="NACIONAL",1973 Mazzaropi Portugal Minha Saudade (1973)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1973 Mazzaropi Um Caipira em Bariloche (1973)" tvg-logo="data:image/jpeg;base64,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" group-title="NACIONAL",1973 Mazzaropi Um Caipira em Bariloche (1973)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1974 Mazzaropi O Jeca Macumbeiro (1974)" tvg-logo="https://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/94/96/63/20369017.jpg" group-title="NACIONAL",1974 Mazzaropi O Jeca Macumbeiro (1974)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1976 Mazzaropi Jeca contra o Capeta (1976)" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/94/04/20366695.jpg" group-title="NACIONAL",1976 Mazzaropi Jeca contra o Capeta (1976)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1977 Mazzaropi Jecao Um Fofoqueiro No Ceu (1977)" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/96/82/20369161.jpg" group-title="NACIONAL",1977 Mazzaropi Jecao Um Fofoqueiro No Ceu (1977)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1978 Mazzaropi Jeca e Seu Filho Preto (1978)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Jeca_Seu_Filho_Preto_CN_0501.jpg" group-title="NACIONAL",1978 Mazzaropi Jeca e Seu Filho Preto (1978)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1979 Mazzaropi A Banda Das Velhas Virgens (1979)" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/files/atoms/image/abandadasvelhasvirgens_cartaz_medio.jpg" group-title="NACIONAL",1979 Mazzaropi A Banda Das Velhas Virgens (1979)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1980 Mazzaropi O Jeca e a Egua Milagrosa (1980)" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/files/atoms/image/o_jeca_e_a_egua_milagrosa_cartaz_medio.jpg" group-title="NACIONAL",1980 Mazzaropi O Jeca e a Egua Milagrosa (1980)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Filhos de Francisco (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpCUQTdwFB0O502RvqLPMxyol8f.jpg" group-title="DRAMA",2 Filhos de Francisco (2005)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz8JL8RF7DPmwSwMWs4Pw0taaDu.jpg" group-title="LANÇAMENTOS",2 Minutos de Fama (2020)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2009 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz8JL8RF7DPmwSwMWs4Pw0taaDu.jpg" group-title="DRAMA",2009 (2012)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgiU6AvEoyuLMnt7KnoubXrKsC.jpg" group-title="AÇÃO",22 Milhas (2018)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 Turcos e um Bebê (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w1OgDXR2GhHxJuFkAp4UD1Pzwk.jpg" group-title="COMÉDIA",3 Turcos e um Bebê (2015)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptwnsvQul9hIqLz5iEnt1XIsob0.jpg" group-title="AÇÃO",30 Minutos ou Menos (2011)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXb30biVItPuNY3scjbcZ70oxD.jpg" group-title="AÇÃO",300 (2007)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTko6K3GUVtYvHGjd62MJ8hNy1K.jpg" group-title="AÇÃO",3000 Milhas Para o Inferno (2001)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="AÇÃO",300: A Ascensão do Império (2014)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3096 Dias De Cativeiro \ (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="TERROR",3096 Dias De Cativeiro \ (2014)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="LANÇAMENTOS",365 Dias (2020)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50% (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kTpREFwHiBZx9dIzBKVAveZa5h.jpg" group-title="AÇÃO",50% (2011)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Dias (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" group-title="AÇÃO",6 Dias (2017)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Desejos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg" group-title="TERROR",7 Desejos (2017)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hL2uecLh2rTTbuVbOriXP0PhqIJ.jpg" group-title="LANÇAMENTOS",7500 (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A 13ª Emenda (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="DOCUMENTARIIOS",A 13ª Emenda (2016)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Abelha Maya: O Filme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smg2Uf596BuwztwQmb8lt2wAzDk.jpg" group-title="ANIMAÇÃO",A Abelha Maya: O Filme (2014)
+http://cdnbr.xyz:8080/movie/200036256/167115791/210861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arqueira (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="AÇÃO",A Arqueira (2017)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Ascensão da Rainha Guerreira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms8K4joARMKKPoGLqp1FKgPsMmq.jpg" group-title="DRAMA",A Ascensão da Rainha Guerreira (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/212191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Baba (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms8K4joARMKKPoGLqp1FKgPsMmq.jpg" group-title="TERROR",A Baba (2019)
+http://cdnbr.xyz:8080/movie/200036256/167115791/211477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMEbjQCLiquhAd2MeVyDr3rHKvM.jpg" group-title="LANÇAMENTOS
