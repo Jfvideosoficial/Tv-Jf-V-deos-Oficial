@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PIPOCA
+http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=78ewq45qew12sdd
+
+#EXTINF:-1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"", TELECINE PREMIUM
+http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w2W2cXcfnPSISAUjaoE87pEbj-3ZDflHMg&usqp=CAU"",TELECINE ACTION
+http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"", ANIMAL PLANET
+http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png"",HISTORY
+http://contentzord.gelderland.ga:2095/live/history/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo ="http://i.imgur.com/NSHvLCe.png"", GLOBO-SP HD
+http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-SP HD
+http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"", BAND-RBAHD
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1796071075.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png"", RECORD-SP HD
+http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-PÍ HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1725959751.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-INTERIOR HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png"", SBT-GO HD
+https://j5umwxziy3.zoeweb.tv/tvsd2/smil:tvsd2_64eS8OiMSj8l.smil/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQi
+
+
+#EXTINF:-1 tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/redetv-logo.png"", REDE TV-PIAUI
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w225234320.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://soliens.com.br/wp-content/uploads/2019/02/record-news-1-e1549045735650.png"", RECOD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w757204456.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIXCTA443p5t1pcyK4v8th2zx360OARpY3w&usqp=CAU"",MEGAPIX
+http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png"",HBO
+http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/2560px-FX_Turkey_logo.svg.png"",FX
+http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png"", PREMIERE CLUBES 
+http://contentzord.gelderland.ga:2095/live/premiereclubes/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png"",SPORTV 01
+http://contentzord.gelderland.ga:2095/live/sportv/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"",ESPN
+http://contentzord.gelderland.ga:2095/live/espn/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png"",COMBATE
+http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png"", BIGBROTHER BBB CAM 01
+http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=78ewq45qew12sdd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Big_Brother_Brasil.png"", BIGBROTHER BBB CAM 02
+http://contentzord.gelderland.ga:2095/live/bbbcam2/chunks.m3u8?token=78ewq45qew12sdd
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1200px-Canal_Viva_2018_wordmark.svg.png"", CANAL VIVA 
+http://contentzord.gelderland.ga:2095/live/viva/chunks.m3u8?token=78ewq45qew12sdd
+
+
